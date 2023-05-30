@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+.headDiv {
+  height: 70%;
+  background-color: white;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 60%;
+}
+
+.container {
+  box-shadow: 2px 2px 2px 2px gray;
+  border: 2px solid black;
+  height: 70%;
+  background-color: white;
+  padding: 1em;
+  margin: 0 auto;
+  width: 60%;
+}
+
+.populator,
+.divForm,
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.recentDiv,
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  justify-content: space-around;
+}
+
+.lists {
+  border: 3px solid black;
+}
+
+#add-btn {
+  align-self: end;
+  padding: 6px 12px;
+}
+
+.ref {
+  align-self: center;
+  padding: 6px 12px;
+}
+
+.lists div:nth-child(odd) {
+  background-color: rgb(208, 203, 203);
+}
+
+form {
+  gap: 0.5em;
+}
