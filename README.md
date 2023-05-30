@@ -47,7 +47,7 @@
 - [ ]**[render from the recent top score ]**
 ## :rocket: Live Demo <a name="live-demo"></a>
 
-[here](https://beteland123.github.io/Leaderboared/)
+[here](https://beteland123.github.io/Leaderboard/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :computer: Getting Started <a name="getting-started"></a>
