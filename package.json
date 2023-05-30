@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
-  "homepage": "https://beteland123.github.io/Todo-list/",
+  "homepage": "https://beteland123.github.io/Leaderboard/",
   "main": "webpack.config.js",
   "scripts": {
     "deploy": "gh-pages -d dist",
