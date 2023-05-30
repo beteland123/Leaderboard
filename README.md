@@ -15,7 +15,7 @@
 - [:star:️ Show your support](#support)
 - [:pray: Acknowledgements](#acknowledgements)
 - [:memo: License](#license)
-# :book: [My-todo list] <a name="about-project"></a>
+# :book: [My-Leaderboared] <a name="about-project"></a>
 > This project is called leadeboared which is developed for the purpose of design  a website with APIs and for practicing what I have learned about giflows , webpack
 ## :hammer_and_wrench: Built With <a name="built-with"> using Html and CSS</a>
 ### Tech Stack <a name="tech-stack"></a>
@@ -43,7 +43,7 @@
 ### Key Features <a name="key-features"></a>
  
 - [ ]**[use a webpack for bundling ]**
-- [ ]**[Leader app where you can add score]**
+- [ ]**[Leaderboared app where you can add score]**
 - [ ]**[render from the recent top score ]**
 ## :rocket: Live Demo <a name="live-demo"></a>
 
@@ -116,5 +116,5 @@ I would like to thank my Microveseinc
 
 ## :memo: License <a name="license"></a>
 
-This project is [MIT](https://github.com/beteland123/Todo-list/blob/feature/todo-list-structure/LICENSE) licensed.
+This project is [MIT](https://github.com/beteland123/Leaderboard/blob/setup-project/LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
