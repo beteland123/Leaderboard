@@ -5,6 +5,7 @@ const lists = async (game) => {
     list.innerHTML = '';
     scores.forEach((element) => {
       const listElement = document.createElement('div');
+      listElement.className = 'eachList';
       listElement.innerHTML = `<span class="name">${element.user} : </span><span class="score">${element.score}</span>`;
       list.appendChild(listElement);
     });
